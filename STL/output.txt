@@ -1,0 +1,7 @@
+BEFORE: 2,46,74,3,76,367,6,
+AFTER(Increasing order): 2,3,6,46,74,76,367,
+AFTER(Decreasing order): 367,76,74,46,6,3,2,
+Personal request:
+4,1
+2,1
+1,2
