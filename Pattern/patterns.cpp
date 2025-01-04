@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
+//adding for not repeating std::
 void pattern1(int n)
 {
     for (int i = 0; i < n; i++)
